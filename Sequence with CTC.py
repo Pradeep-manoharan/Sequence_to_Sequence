@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.optim as optim
+import random
 
 
 class seq2seqModel(nn.Module):
